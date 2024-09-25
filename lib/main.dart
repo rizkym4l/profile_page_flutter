@@ -61,7 +61,7 @@ class Main extends StatelessWidget {
               Positioned(
                 top: 120,
                 child: CircleAvatar(
-                  backgroundImage: AssetImage("assets/images/setan.jpg"),
+                  backgroundImage: AssetImage("assets/images/setan.png"),
                   radius: 100,
                   backgroundColor: Colors.white,
                 ),
